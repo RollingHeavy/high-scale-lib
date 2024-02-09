@@ -1,11 +1,11 @@
   ----
 Download ${project.name}
   ----
-Stephen Connolly
+Rolling Heavy
   ----
 
 ~~
-~~ Written by Stephen Connolly and released to the public domain, as explained
+~~ Originally written by Stephen Connolly and released to the public domain, as explained
 ~~ at http://creativecommons.org/licenses/publicdomain
 ~~
 
@@ -13,4 +13,4 @@ Download ${project.name} ${project.version}
 
   You can download the replacement java.util.Hashtable from the Maven Central Repository.
 
-  {{{http://repo1.maven.org/maven2/com/github/stephenc/hich-scale-lib/${project.artifactId}/${project.version}/${project.artifactId}-${project.version}.${project.packaging}}http://repo1.maven.org/maven2/com/github/stephenc/hich-scale-lib/${project.artifactId}/${project.version}/${project.artifactId}-${project.version}.${project.packaging}}}
+  {{{http://repo1.maven.org/maven2/com/github/rollingheavy/hich-scale-lib/${project.artifactId}/${project.version}/${project.artifactId}-${project.version}.${project.packaging}}http://repo1.maven.org/maven2/com/github/rollingheavy/hich-scale-lib/${project.artifactId}/${project.version}/${project.artifactId}-${project.version}.${project.packaging}}}

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Written by Stephen Connolly and released to the public domain, as explained
+  ~ Originally written by Stephen Connolly and released to the public domain, as explained
   ~ at http://creativecommons.org/licenses/publicdomain
   -->
 
@@ -13,7 +13,7 @@
     <version>7</version>
   </parent>
 
-  <groupId>com.github.stephenc.high-scale-lib</groupId>
+  <groupId>com.github.rollingheavy.high-scale-lib</groupId>
   <artifactId>high-scale-lib-parent</artifactId>
   <version>1.1.5-SNAPSHOT</version>
   <packaging>pom</packaging>
@@ -29,10 +29,17 @@
 
   <developers>
     <developer>
+      <id>rollingheavy</id>
+      <name>Rolling Heavy</name>
+      <roles>
+        <role>packager</role>
+      </roles>
+    </developer>
+    <developer>
       <id>stephenc</id>
       <name>Stephen Connolly</name>
       <roles>
-        <role>packager</role>
+        <role>developer</role>
       </roles>
     </developer>
     <developer>
@@ -50,20 +57,16 @@
 
   <modules>
     <module>high-scale-lib</module>
-<!--
-    <module>java_util_hashtable</module>
-    <module>java_util_concurrent_chm</module>
--->
   </modules>
 
   <scm>
-    <connection>scm:git:git://github.com/stephenc/high-scale-lib.git</connection>
-    <developerConnection>scm:git:git@github.com:stephenc/high-scale-lib.git</developerConnection>
-    <url>http://github.com/stephenc/high-scale-lib/tree/master/</url>
+    <connection>scm:git:git://github.com/rollingheavy/high-scale-lib.git</connection>
+    <developerConnection>scm:git:git@github.com:rollingheavy/high-scale-lib.git</developerConnection>
+    <url>http://github.com/rollingheavy/high-scale-lib/tree/master/</url>
   </scm>
   <issueManagement>
     <system>github</system>
-    <url>http://github.com/stephenc/high-scale-lib/issues</url>
+    <url>http://github.com/rollingheavy/high-scale-lib/issues</url>
   </issueManagement>
 
   <properties>

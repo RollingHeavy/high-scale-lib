@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-  ~ Written by Stephen Connolly and released to the public domain, as explained
+  ~ Originally written by Stephen Connolly and released to the public domain, as explained
   ~ at http://creativecommons.org/licenses/publicdomain
   -->
 
@@ -15,8 +15,8 @@
   </bannerRight>
   <body>
     <breadcrumbs>
-      <item name="Stephen Connolly" href="http://stephenc.github.com"/>
-      <item name="Highly Scalable Java" href="http://stephenc.github.com/high-scale-lib"/>
+      <item name="Rolling Heavy" href="https://github.com/RollingHeavy"/>
+      <item name="Highly Scalable Java" href="https://github.com/RollingHeavy/high-scale-lib"/>
     </breadcrumbs>
     <menu name="Overview">
       <item name="Introduction" href="index.html"/>

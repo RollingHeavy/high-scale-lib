@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Written by Stephen Connolly and released to the public domain, as explained
+  ~ Originally written by Stephen Connolly and released to the public domain, as explained
   ~ at http://creativecommons.org/licenses/publicdomain
   -->
 
@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.github.stephenc.high-scale-lib</groupId>
+    <groupId>com.github.rollingheavy.high-scale-lib</groupId>
     <artifactId>high-scale-lib-parent</artifactId>
     <version>1.1.5-SNAPSHOT</version>
   </parent>
